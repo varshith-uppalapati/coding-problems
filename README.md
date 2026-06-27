@@ -12,6 +12,7 @@ This repository contains coding problems practiced from platforms like LeetCode,
 |  |
 | ------- |
 | [3788-maximum-score-of-a-split](https://github.com/varshith-uppalapati/coding-problems/tree/master/3788-maximum-score-of-a-split) |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/varshith-uppalapati/coding-problems/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 ## Prefix Sum
 |  |
 | ------- |
