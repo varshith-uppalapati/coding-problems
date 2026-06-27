@@ -8,4 +8,12 @@ This repository contains coding problems practiced from platforms like LeetCode,
 | ------- |
 | [3783-mirror-distance-of-an-integer](https://github.com/varshith-uppalapati/coding-problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3908-valid-digit-number](https://github.com/varshith-uppalapati/coding-problems/tree/master/3908-valid-digit-number) |
+## Array
+|  |
+| ------- |
+| [3788-maximum-score-of-a-split](https://github.com/varshith-uppalapati/coding-problems/tree/master/3788-maximum-score-of-a-split) |
+## Prefix Sum
+|  |
+| ------- |
+| [3788-maximum-score-of-a-split](https://github.com/varshith-uppalapati/coding-problems/tree/master/3788-maximum-score-of-a-split) |
 <!---LeetCode Topics End-->
