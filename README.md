@@ -17,4 +17,16 @@ This repository contains coding problems practiced from platforms like LeetCode,
 |  |
 | ------- |
 | [3788-maximum-score-of-a-split](https://github.com/varshith-uppalapati/coding-problems/tree/master/3788-maximum-score-of-a-split) |
+## Two Pointers
+|  |
+| ------- |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/varshith-uppalapati/coding-problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+## String
+|  |
+| ------- |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/varshith-uppalapati/coding-problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/varshith-uppalapati/coding-problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 <!---LeetCode Topics End-->
