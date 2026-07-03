@@ -11,6 +11,7 @@ This repository contains coding problems practiced from platforms like LeetCode,
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/varshith-uppalapati/coding-problems/tree/master/0014-longest-common-prefix) |
 | [3788-maximum-score-of-a-split](https://github.com/varshith-uppalapati/coding-problems/tree/master/3788-maximum-score-of-a-split) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/varshith-uppalapati/coding-problems/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 ## Prefix Sum
@@ -24,9 +25,14 @@ This repository contains coding problems practiced from platforms like LeetCode,
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/varshith-uppalapati/coding-problems/tree/master/0014-longest-common-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/varshith-uppalapati/coding-problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/varshith-uppalapati/coding-problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/varshith-uppalapati/coding-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
