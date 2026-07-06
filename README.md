@@ -35,4 +35,12 @@ This repository contains coding problems practiced from platforms like LeetCode,
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/varshith-uppalapati/coding-problems/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/varshith-uppalapati/coding-problems/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/varshith-uppalapati/coding-problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
