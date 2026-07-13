@@ -44,4 +44,20 @@ This repository contains coding problems practiced from platforms like LeetCode,
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/varshith-uppalapati/coding-problems/tree/master/0021-merge-two-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/varshith-uppalapati/coding-problems/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/varshith-uppalapati/coding-problems/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/varshith-uppalapati/coding-problems/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/varshith-uppalapati/coding-problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
