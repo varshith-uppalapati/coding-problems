@@ -26,6 +26,7 @@ This repository contains coding problems practiced from platforms like LeetCode,
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/varshith-uppalapati/coding-problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/varshith-uppalapati/coding-problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/varshith-uppalapati/coding-problems/tree/master/0058-length-of-last-word) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/varshith-uppalapati/coding-problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
@@ -60,4 +61,12 @@ This repository contains coding problems practiced from platforms like LeetCode,
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/varshith-uppalapati/coding-problems/tree/master/0100-same-tree) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/varshith-uppalapati/coding-problems/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/varshith-uppalapati/coding-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
