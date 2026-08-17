@@ -65,6 +65,7 @@ This repository contains coding problems practiced from platforms like LeetCode,
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/varshith-uppalapati/coding-problems/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/varshith-uppalapati/coding-problems/tree/master/0232-implement-queue-using-stacks) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -72,10 +73,12 @@ This repository contains coding problems practiced from platforms like LeetCode,
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/varshith-uppalapati/coding-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/varshith-uppalapati/coding-problems/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/varshith-uppalapati/coding-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/varshith-uppalapati/coding-problems/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
