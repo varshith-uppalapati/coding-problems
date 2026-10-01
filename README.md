@@ -84,4 +84,8 @@ This repository contains coding problems practiced from platforms like LeetCode,
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/varshith-uppalapati/coding-problems/tree/master/0933-number-of-recent-calls) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/varshith-uppalapati/coding-problems/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
