@@ -12,6 +12,7 @@ This repository contains coding problems practiced from platforms like LeetCode,
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/varshith-uppalapati/coding-problems/tree/master/0014-longest-common-prefix) |
+| [0088-merge-sorted-array](https://github.com/varshith-uppalapati/coding-problems/tree/master/0088-merge-sorted-array) |
 | [3788-maximum-score-of-a-split](https://github.com/varshith-uppalapati/coding-problems/tree/master/3788-maximum-score-of-a-split) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/varshith-uppalapati/coding-problems/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 ## Prefix Sum
@@ -21,6 +22,7 @@ This repository contains coding problems practiced from platforms like LeetCode,
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/varshith-uppalapati/coding-problems/tree/master/0088-merge-sorted-array) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/varshith-uppalapati/coding-problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## String
 |  |
@@ -88,4 +90,8 @@ This repository contains coding problems practiced from platforms like LeetCode,
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/varshith-uppalapati/coding-problems/tree/master/0196-delete-duplicate-emails) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/varshith-uppalapati/coding-problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
