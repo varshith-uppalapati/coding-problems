@@ -90,6 +90,7 @@ This repository contains coding problems practiced from platforms like LeetCode,
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/varshith-uppalapati/coding-problems/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/varshith-uppalapati/coding-problems/tree/master/0197-rising-temperature) |
 ## Sorting
 |  |
 | ------- |
