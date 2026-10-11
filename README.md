@@ -31,6 +31,7 @@ This repository contains coding problems practiced from platforms like LeetCode,
 | [0014-longest-common-prefix](https://github.com/varshith-uppalapati/coding-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/varshith-uppalapati/coding-problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/varshith-uppalapati/coding-problems/tree/master/0058-length-of-last-word) |
+| [1021-remove-outermost-parentheses](https://github.com/varshith-uppalapati/coding-problems/tree/master/1021-remove-outermost-parentheses) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/varshith-uppalapati/coding-problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
 |  |
@@ -69,10 +70,12 @@ This repository contains coding problems practiced from platforms like LeetCode,
 | ------- |
 | [0020-valid-parentheses](https://github.com/varshith-uppalapati/coding-problems/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/varshith-uppalapati/coding-problems/tree/master/0232-implement-queue-using-stacks) |
+| [1021-remove-outermost-parentheses](https://github.com/varshith-uppalapati/coding-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/varshith-uppalapati/coding-problems/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/varshith-uppalapati/coding-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
