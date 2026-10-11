@@ -13,6 +13,7 @@ This repository contains coding problems practiced from platforms like LeetCode,
 | ------- |
 | [0014-longest-common-prefix](https://github.com/varshith-uppalapati/coding-problems/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/varshith-uppalapati/coding-problems/tree/master/0088-merge-sorted-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/varshith-uppalapati/coding-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3788-maximum-score-of-a-split](https://github.com/varshith-uppalapati/coding-problems/tree/master/3788-maximum-score-of-a-split) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/varshith-uppalapati/coding-problems/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 ## Prefix Sum
@@ -95,4 +96,8 @@ This repository contains coding problems practiced from platforms like LeetCode,
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/varshith-uppalapati/coding-problems/tree/master/0088-merge-sorted-array) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/varshith-uppalapati/coding-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
