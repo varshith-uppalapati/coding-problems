@@ -6,6 +6,7 @@ This repository contains coding problems practiced from platforms like LeetCode,
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/varshith-uppalapati/coding-problems/tree/master/0509-fibonacci-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/varshith-uppalapati/coding-problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3908-valid-digit-number](https://github.com/varshith-uppalapati/coding-problems/tree/master/3908-valid-digit-number) |
 ## Array
@@ -49,6 +50,7 @@ This repository contains coding problems practiced from platforms like LeetCode,
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/varshith-uppalapati/coding-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/varshith-uppalapati/coding-problems/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -103,4 +105,12 @@ This repository contains coding problems practiced from platforms like LeetCode,
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/varshith-uppalapati/coding-problems/tree/master/2778-sum-of-squares-of-special-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/varshith-uppalapati/coding-problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/varshith-uppalapati/coding-problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
